@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">internship</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rus_cameras">Камеры</string>
+    <string name="rus_doors">Двери</string>
+</resources>
